@@ -1,0 +1,6 @@
+# 50 Days Coding Challenge
+Welcome to my 50 Days Python Coding Challenge
+
+## Progress
+Day - 1 -> Student Grade Calculator
+Day - 2 -> Library Management System
