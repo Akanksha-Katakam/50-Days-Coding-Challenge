@@ -5,3 +5,4 @@ Welcome to my 50 Days Python Coding Challenge
 Day - 1 -> Student Grade Calculator
 Day - 2 -> Library Management System
 Day - 3 -> Password Generator
+Day - 4 -> Dice Rolling Simulator
