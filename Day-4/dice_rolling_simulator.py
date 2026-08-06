@@ -1,3 +1,5 @@
+# Day - 4 -> Dice Rolling Simulator
+
 import random
 
 # Function to roll the dice
