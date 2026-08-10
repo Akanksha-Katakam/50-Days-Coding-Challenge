@@ -9,3 +9,4 @@ Day - 4 -> Dice Rolling Simulator
 Day - 5 -> Number Guessing Game
 Day - 6 -> Text Analyser
 Day - 7 -> Smart Calculator
+Day - 8 -> QR Code Generator

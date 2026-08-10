@@ -1,4 +1,4 @@
-#
+# Day - 8 -> QR Code Generator
 
 import qrcode
 
