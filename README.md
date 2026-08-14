@@ -11,5 +11,6 @@ Day - 6 -> Text Analyser
 Day - 7 -> Smart Calculator
 Day - 8 -> QR Code Generator
 Day - 9 -> Word Frequency Analyser
-Day - 10 -> Valid Parentheses
-Day - 11 -> Target Sum
+Day - 10-> Valid Parentheses
+Day - 11-> Target Sum
+Day - 12-> Move Zeroes
